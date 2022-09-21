@@ -147,6 +147,7 @@ electronics and support.
 - [ ] Noise-cancelling foam plugs
 - [ ] Sun glasses
 - [ ] Lip balm
+- [ ] Toiletries
 
 ### Electronics
 
