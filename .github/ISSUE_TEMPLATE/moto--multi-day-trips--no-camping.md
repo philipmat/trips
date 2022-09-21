@@ -84,6 +84,13 @@ Route checklist:
 
 ### Specific purchases for this trip
 
+### Work
+
+- [ ] Put in PTO request
+- [ ] Put trip/OOO on all required calendars
+- [ ] Set Out-of-Office notification
+ 
+
 ## Packing Checklist
 
 Broken into stuff to wear while riding;
@@ -143,12 +150,13 @@ electronics and support.
 
 ### Electronics
 
-- [ ] Adapter
+- [ ] Power Brick/Adapter
   - [ ] Micro-USB cable
   - [ ] Lightning cable
   - [ ] USB-C cable?
 - [ ] Battery
 - [ ] Noise-cancelling headphones
+- [ ] Charge all devices
 
 ## Post-trip
 
